@@ -466,7 +466,7 @@ Error generating stack: `+i.message+`
 					justify-content: center;
 					align-items: center;
 					flex-direction: column;
-					width: 70%;
+					width: 100%;
 					height: 100%;
 					padding: 10px;
 					margin-top: 50px;
@@ -588,7 +588,7 @@ Error generating stack: `+i.message+`
 					justify-content: center;
 					align-items: center;
 					flex-direction: column;
-					width: 70%;
+					width: 100%;
 					height: 100%;
 					padding: 10px;
 					margin-top: 50px;
@@ -637,7 +637,7 @@ Error generating stack: `+i.message+`
 			}
 		}
 	}
-`,e1=()=>v(t1,{children:R("div",{className:"contact-inner-box",children:[v(ze,{left:!0,children:v("div",{className:"background"})}),R("div",{className:"text-inner-box",children:[v(ze,{right:!0,delay:1e3,children:v("span",{className:"sub-title",children:"\uC0AC\uC774\uD2B8\uB97C \uBC29\uBB38\uD574\uC8FC\uC154\uC11C"})}),v(ze,{right:!0,delay:1500,children:v("span",{className:"title",children:"\uAC10\uC0AC\uD569\uB2C8\uB2E4."})}),R("span",{className:"text",children:[v(ze,{right:!0,cascade:!0,delay:2e3,children:"\uD604\uC5C5\uC5D0 \uB300\uD55C \uACBD\uB825\uC740 \uC5C6\uC9C0\uB9CC \uAE30\uC220 \uC2B5\uB4DD\uB825 \uBC0F \uC0AC\uD68C \uC801\uC751\uB825 \uD558\uB098\uB294 \uCD5C\uACE0\uB77C\uACE0 \uC790\uBD80\uD569\uB2C8\uB2E4."}),v("br",{}),R(ze,{right:!0,cascade:!0,delay:3e3,children:["\uD56D\uC0C1 \uC77C\uD560 \uB54C \uACE0\uAC1D\uB2D8\uB4E4\uACFC \uC0AC\uC7A5\uB2D8\uB4E4\uC5D0\uAC8C \uC778\uC815\uBC1B\uC544\uC624\uBA70 \uC77C\uC744 \uD574\uC654\uC2B5\uB2C8\uB2E4.",v("br",{})]}),v(ze,{right:!0,cascade:!0,delay:4e3,children:"\uCC45\uC784\uAC10 \uAC15\uD55C \uC9C1\uC6D0\uC774 \uD544\uC694\uD558\uB2E4\uBA74 \uC5F0\uB77D\uC8FC\uC138\uC694 :-)"}),v("br",{}),R(ze,{right:!0,cascade:!0,delay:5e3,children:["\uAC19\uC774 \uC77C\uD574\uBCF4\uBA74 \uC815\uB9D0 \uC798 \uBF51\uC558\uB2E4\uACE0 \uC0DD\uAC01\uD560 \uAC81\uB2C8\uB2E4.",v("br",{})]}),v(ze,{right:!0,cascade:!0,delay:6e3,children:"\uC5F0\uB77D\uC740 \uC6B0\uCE21\uC5D0 \uC801\uD78C \uC804\uD654\uBC88\uD638\uC640 \uC774\uBA54\uC77C\uB85C \uC8FC\uC2DC\uBA74 \uAC10\uC0AC\uD558\uACA0\uC2B5\uB2C8\uB2E4."}),v("br",{}),R(ze,{right:!0,cascade:!0,delay:7e3,children:["\uAF2D! \uAC19\uC774 \uD611\uC5C5\uD558\uB294 \uB0A0\uC774 \uC654\uC73C\uBA74 \uC88B\uACA0\uC2B5\uB2C8\uB2E4.",v("br",{})]})]}),v("div",{className:"contact-text",children:R("span",{className:"contact",children:[v(ze,{right:!0,cascade:!0,delay:8e3,children:"PHONE 010 8013-7313"}),v("br",{}),v(ze,{right:!0,cascade:!0,delay:9e3,children:"E-MAIL tmdcjf1523@gmail.com /"})]})})]})]})}),t1=Bn.div`
+`,e1=()=>v(t1,{children:R("div",{className:"contact-inner-box",children:[v(ze,{left:!0,children:v("div",{className:"background"})}),R("div",{className:"text-inner-box",children:[v(ze,{right:!0,delay:1e3,children:v("span",{className:"sub-title",children:"\uC0AC\uC774\uD2B8\uB97C \uBC29\uBB38\uD574\uC8FC\uC154\uC11C"})}),v(ze,{right:!0,delay:1500,children:v("span",{className:"title",children:"\uAC10\uC0AC\uD569\uB2C8\uB2E4."})}),R("span",{className:"text",children:[v(ze,{right:!0,cascade:!0,delay:2e3,children:"\uD604\uC5C5\uC5D0 \uB300\uD55C \uACBD\uB825\uC740 \uC5C6\uC9C0\uB9CC \uAE30\uC220 \uC2B5\uB4DD\uB825 \uBC0F \uC0AC\uD68C \uC801\uC751\uB825 \uD558\uB098\uB294 \uCD5C\uACE0\uB77C\uACE0 \uC790\uBD80\uD569\uB2C8\uB2E4."}),v("br",{}),R(ze,{right:!0,cascade:!0,delay:3e3,children:["\uD56D\uC0C1 \uC77C\uD560 \uB54C \uACE0\uAC1D\uB2D8\uB4E4\uACFC \uC0AC\uC7A5\uB2D8\uB4E4\uC5D0\uAC8C \uC778\uC815\uBC1B\uC544\uC624\uBA70 \uC77C\uC744 \uD574\uC654\uC2B5\uB2C8\uB2E4.",v("br",{})]}),v(ze,{right:!0,cascade:!0,delay:4e3,children:"\uCC45\uC784\uAC10 \uAC15\uD55C \uC9C1\uC6D0\uC774 \uD544\uC694\uD558\uB2E4\uBA74 \uC5F0\uB77D\uC8FC\uC138\uC694 :-)"}),v("br",{}),R(ze,{right:!0,cascade:!0,delay:5e3,children:["\uAC19\uC774 \uC77C\uD574\uBCF4\uBA74 \uC815\uB9D0 \uC798 \uBF51\uC558\uB2E4\uACE0 \uC0DD\uAC01\uD560 \uAC81\uB2C8\uB2E4.",v("br",{})]}),v(ze,{right:!0,cascade:!0,delay:6e3,children:"\uC5F0\uB77D\uC740 \uC6B0\uCE21\uC5D0 \uC801\uD78C \uC804\uD654\uBC88\uD638\uC640 \uC774\uBA54\uC77C\uB85C \uC8FC\uC2DC\uBA74 \uAC10\uC0AC\uD558\uACA0\uC2B5\uB2C8\uB2E4."}),v("br",{}),R(ze,{right:!0,cascade:!0,delay:7e3,children:["\uAF2D! \uAC19\uC774 \uD611\uC5C5\uD558\uB294 \uB0A0\uC774 \uC654\uC73C\uBA74 \uC88B\uACA0\uC2B5\uB2C8\uB2E4.",v("br",{})]})]}),v("div",{className:"contact-text",children:R("span",{className:"contact",children:[v(ze,{right:!0,cascade:!0,delay:8e3,children:"PHONE 010 8013-7313"}),v("br",{}),v(ze,{right:!0,cascade:!0,delay:9e3,children:"E-MAIL tmdcjf1523@gmail.com"})]})})]})]})}),t1=Bn.div`
 	width: 100%;
 	height: 100vh;
 	margin: 0 auto;
