@@ -5,7 +5,7 @@ import { bagie, blue } from '../styles/theme';
 const Skill = () => {
 	return (
 		<SkillBlock>
-			<span className='title-text'>Contact</span>
+			<span className='title-text'>Skill</span>
 			<div className='skill-inner-box'>
 			<Fade left delay={500}>
 				<div className='skill-box'>
@@ -165,7 +165,7 @@ const SkillBlock = styled.div`
 	width: 100%;
 	height: 100%;
 	margin: 0 auto;
-	padding: 110px 20px 20px 20px;
+	padding: 10px 20px 20px 20px;
 	background: ${bagie};
 	color: #000;
 	.title-text {

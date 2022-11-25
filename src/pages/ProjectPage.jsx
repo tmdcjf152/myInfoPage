@@ -18,7 +18,7 @@ const ProjectPage = () => {
 									<span className='content-title-text'>
 										PRO CODERS Team Project
 										<br />
-										<span className='day'>2022.08.29 - 2022.29.08</span>
+										<span className='day'>2022.08.29 - 2022.09.08</span>
 									</span>
 									<a target='_blank' href='https://github.com/tmdcjf152/justcode-6-1st-pro-coders-front'>
 										깃허브 레포지토리 바로가기
@@ -163,7 +163,7 @@ const ProjectPageBlock = styled.div`
 	width: 100%;
 	height: 100%;
 	margin: 0 auto;
-	padding: 110px 20px 20px 20px;
+	padding: 10px 20px 20px 20px;
 	background: ${bagie};
 	color: #000;
 	z-index: 100;
