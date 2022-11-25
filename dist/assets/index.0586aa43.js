@@ -158,7 +158,7 @@ Error generating stack: `+i.message+`
 			}
 		}
 	}
-`,Iv="/assets/\uD504\uB85C\uD544\uC0AC\uC9C4.38d594ea.jpg",Uv=()=>v(Hv,{children:R("div",{className:"card-inner-box",children:[v("div",{className:"img-inner-box",children:v("img",{src:Iv,alt:""})}),R("div",{className:"name-inner-box",children:[v("span",{className:"kr-name",children:"\uCD5C\uC2B9\uCCA0"}),v("span",{className:"en-name",children:"Choi Seungchul"}),v("span",{className:"position-name",children:"FRONTEND DEVELOPER"})]})]})}),Hv=Bn.div`
+`,Iv="/myInfoPage/assets/\uD504\uB85C\uD544\uC0AC\uC9C4.38d594ea.jpg",Uv=()=>v(Hv,{children:R("div",{className:"card-inner-box",children:[v("div",{className:"img-inner-box",children:v("img",{src:Iv,alt:""})}),R("div",{className:"name-inner-box",children:[v("span",{className:"kr-name",children:"\uCD5C\uC2B9\uCCA0"}),v("span",{className:"en-name",children:"Choi Seungchul"}),v("span",{className:"position-name",children:"FRONTEND DEVELOPER"})]})]})}),Hv=Bn.div`
 	width: 400px;
 	height: 550px;
 	background: #fff;
