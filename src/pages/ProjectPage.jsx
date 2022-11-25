@@ -31,14 +31,7 @@ const ProjectPage = () => {
 										href='https://velog.io/@tmdcjf152/%EC%A0%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-1%EC%B0%A8-%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D'>
 										벨로그 회고록 바로가기
 									</a>
-									<span className='text'>
-										1차 프로젝트는 리액트(React)기반으로 제작된 프로젝트입니다.
-										<br />
-										이커머스 홈페이지 구성(상품 페이지/상품 상세페이지/카카오 지도/로그인/회원가입/장바구니 등)
-										<br />
-										번들링을 생략하여 개발 서버를 빠르게 구동할 수 있는 Vite를 사용하였습니다.
-										<br />
-									</span>
+		
 								</div>
 								<div className='img-box'>
 									<iframe
@@ -73,16 +66,7 @@ const ProjectPage = () => {
 										href='https://velog.io/@tmdcjf152/%EC%A0%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-2%EC%B0%A8-%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D'>
 										벨로그 회고록 바로가기
 									</a>
-									<span className='text'>
-										2차 프로젝트는 리액트(React)기반으로 제작된 프로젝트입니다.
-										<br />
-										음악 스트리밍 사이트의 기능을 클론하여 제작하였습니다.
-										<br />
-										Vite는 빠른 번들링 속도에서 메리트가 있으나 이번프로젝트에는 좀더 안정성을 가진
-										<br />
-										Webpack을 사용하였습니다.
-										<br />
-									</span>
+	
 								</div>
 								<div className='img-box'>
 									<iframe
@@ -117,14 +101,7 @@ const ProjectPage = () => {
 										href='https://velog.io/@tmdcjf152/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-1%EC%B0%A8-%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D-%EC%A3%BC%EB%B9%84%ED%8A%B8%EB%B0%94%EC%9D%B4%ED%8A%B8'>
 										벨로그 회고록 바로가기
 									</a>
-									<span className='text'>
-										프리온보딩 1차 팀프로젝트는 React(리액트)를 사용한 프로젝트 입니다.
-										<br />
-										(주)비트바이트의 명세서를 기반으로 제작된 프로젝트 입니다.
-										<br />
-										번들링을 생략하여 개발 서버를 빠르게 구동할 수 있는 Vite를 사용하였습니다.
-										<br />
-									</span>
+		
 								</div>
 								<div className='img-box'>
 									<iframe
@@ -159,14 +136,7 @@ const ProjectPage = () => {
 										href='https://velog.io/@tmdcjf152/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-4%EC%B0%A8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D-%EC%A3%BC%EB%A3%B0%EB%A3%A8%EB%9E%A9'>
 										벨로그 회고록 바로가기
 									</a>
-									<span className='text'>
-										프리온보딩 4차 개인 프로젝트는 React(리액트)를 사용한 프로젝트 입니다.
-										<br />
-										(주)룰루랩의 명세서를 기반으로 제작된 프로젝트 입니다.
-										<br />
-										번들링을 생략하여 개발 서버를 빠르게 구동할 수 있는 Vite를 사용하였습니다.
-										<br />
-									</span>
+
 								</div>
 								<div className='img-box'>
 									<iframe
@@ -232,7 +202,7 @@ const ProjectPageBlock = styled.div`
 					justify-content: center;
 					align-items: center;
 					flex-direction: column;
-					width: 70%;
+					width: 100%;
 					height: 100%;
 					padding: 10px;
 					margin-top: 50px;
@@ -246,7 +216,7 @@ const ProjectPageBlock = styled.div`
 						align-items: center;
 						width: 100%;
 						height: 100%;
-						margin: 10px 0px 100px 0px;
+						margin: 10px 0px 0px 0px;
 						.since-box {
 							width: 100%;
 							display: flex;
@@ -296,11 +266,7 @@ const ProjectPageBlock = styled.div`
 									}
 								}
 							}
-							.text {
-								margin-top: 60px;
-								line-height: 2;
-								font-size: 14px;
-							}
+
 						}
 					}
 				}

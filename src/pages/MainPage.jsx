@@ -88,12 +88,12 @@ const MainPageBlock = styled.div`
 				padding-bottom: 50px;
 			}
 			.sub-title {
-				font-size: 40px;
+				font-size: 35px;
 				padding-bottom: 50px;
 			}
 			.text {
-				font-size: 16px;
-				line-height: 1.5;
+				font-size: 14px;
+				line-height: 1.7;
 			}
 		}
 	}

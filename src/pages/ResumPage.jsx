@@ -28,7 +28,7 @@ const ResumPage = () => {
 							</div>
 						</Fade>
 						{/* 헤어샵 */}
-						<Fade right delay={1000}>
+						<Fade right >
 							<div className='content-box'>
 								<div className='content'>
 									<div className='since-box'>
@@ -89,9 +89,13 @@ const ResumPage = () => {
 								</div>
 								<div className='text-box'>
 									<span className='career '>
-										HTML/CSS/JavaScript 기본적 지식 습득
+										UI/UX 디자인의 기초 개념 학습
 										<br />
-										eact 기본적 지식 습득
+										웹접근성을 생각한 웹페이지 설계 학습
+										<br /> 
+										ES6 를 이용한 각종 모션그래픽 학습
+										<br /> 
+										React 기본 개념 학습
 									</span>
 								</div>
 							</div>
@@ -153,7 +157,7 @@ const ResumPageBlock = styled.div`
 					justify-content: center;
 					align-items: center;
 					flex-direction: column;
-					width: 70%;
+					width: 100%;
 					height: 100%;
 					padding: 10px;
 					margin-top: 50px;
@@ -172,17 +176,17 @@ const ResumPageBlock = styled.div`
 							flex-direction: column;
 							.since {
 								margin-bottom: 10px;
-								font-size: 35px;
+								font-size: 30px;
 								color: ${blue};
 								font-family: 'Do Hyeon', sans-serif;
 							}
 							.company {
-								font-size: 25px;
+								font-size: 20px;
 								color: #000;
 								font-family: 'Do Hyeon', sans-serif;
 							}
 							.company-sub {
-								font-size: 20px;
+								font-size: 17px;
 								color: #000;
 								font-family: 'Do Hyeon', sans-serif;
 							}

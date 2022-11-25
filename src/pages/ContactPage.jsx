@@ -53,7 +53,7 @@ const ContactPage = () => {
 						<br/>
 						<Fade right  cascade delay={9000}>
 					E-MAIL tmdcjf1523@gmail.com
-					/</Fade></span>
+					</Fade></span>
 				</div>
 
 				</div>
@@ -89,7 +89,7 @@ const ContactPageBlock = styled.div`
 		}
 		.text-inner-box {
 			position: relative;
-			bottom: 100px;
+			bottom: 70px;
 			right: 400px;
 			display: flex;
 			justify-content: center;
@@ -99,19 +99,18 @@ const ContactPageBlock = styled.div`
 			height: 100%;
 			padding-left: 100px;
 			.title {
-				font-size: 100px;
-				padding-bottom: 50px;
+				font-size: 50px;
+				padding-bottom: 30px;
 			}
 			.sub-title {
-				font-size: 40px;
-				padding-bottom: 50px;
+				font-size: 30px;
+				padding-bottom: 30px;
 			}
 			.text {
-				font-size: 16px;
-				line-height: 1.5;
+				font-size: 14px;
 			}
 			.contact{
-				font-size: 30px;
+				font-size: 20px;
 				font-weight: bold;
 				color: ${blue};
 			}
